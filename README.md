@@ -1,2 +1,8 @@
 # deltanew
-this is github demo page
+this is github demo page.
+
+# Teacher 
+Aman sir
+
+# Student 
+Hitesh
